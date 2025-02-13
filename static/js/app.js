@@ -59,6 +59,7 @@ function buildCharts(sample) {
       margin: { t: 0 },
       hovermode: "closest",
       xaxis: { title: "OTU ID" },
+      yaxis: { title: "Number of Bacteria" },
       margin: { t: 30 }
     };
 
